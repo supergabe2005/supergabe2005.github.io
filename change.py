@@ -26,7 +26,7 @@ pennies = cents
 
 #output results
 print("Your change will be:")
-print("Quarters:", quarters)
-print("Dimes:", dimes)
-print("Nickles:", nickels)
-print("Pennies:", pennies)
+print("Q:", quarters)
+print("D:", dimes)
+print("N:", nickels)
+print("P:", pennies)
